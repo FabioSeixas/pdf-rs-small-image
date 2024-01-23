@@ -3,3 +3,7 @@
 By the way, manipulating pdfs...
 
 Using [lopdf](https://crates.io/crates/lopdf/0.32.0)
+
+#### Reference:
+
+https://github.com/kpcyrd/mini-docker-rust
